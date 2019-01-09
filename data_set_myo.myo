@@ -1,0 +1,1 @@
+{"name": "MyoDataset", "location": "/Users/gabrielefilipponi/Documents/data_set_myo", "sets": ["train", "validation", "test"], "duration": 3000, "emg_freq": 200, "imu_freq": 50, "imu_check": 0, "gestures": ["left", "right", "fist", "ok", "point", "scissors", "pistol", "three", "five", "rabbit"]}
